@@ -1,2 +1,1 @@
-dependencies: /Users/air/zhubiao/zzz/ios/zzz/main.m \
-  /Users/air/zhubiao/zzz/ios/zzz/AppDelegate.h
+dependencies: /Users/air/ReactNativeDemo/ios/zzz/main.m

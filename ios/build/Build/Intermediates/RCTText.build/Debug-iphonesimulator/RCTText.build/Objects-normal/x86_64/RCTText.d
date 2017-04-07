@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/air/zhubiao/zzz/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/air/zhubiao/zzz/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/air/zhubiao/zzz/node_modules/react-native/Libraries/Text/RCTShadowText.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/air/zhubiao/zzz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/air/ReactNativeDemo/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/air/ReactNativeDemo/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/air/ReactNativeDemo/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

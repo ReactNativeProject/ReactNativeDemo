@@ -7,7 +7,7 @@ export default class HomeComponents extends Component {
     }
   render() {
     return (
-      <Text style = {styles.mainText}>HomePage!!</Text>
+      <Text style = {styles.mainText}>zzzzHomePage!!</Text>
     );
   }
 }
