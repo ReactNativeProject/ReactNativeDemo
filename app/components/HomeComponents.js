@@ -7,7 +7,7 @@ export default class HomeComponents extends Component {
     }
   render() {
     return (
-      <Text style = {styles.mainText}>mingmingHomePage!!</Text>
+      <Text style = {styles.mainText}>mingmingGOGOHomePage!!</Text>
     );
   }
 }
