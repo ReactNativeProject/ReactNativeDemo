@@ -7,7 +7,7 @@ export default class MineComponents extends Component {
     }
   render() {
     return (
-      <Text style = {styles.mainText}>MinePage!!</Text>
+      <Text style = {styles.mainText}>zhubiao!!</Text>
     );
   }
 }
