@@ -56,18 +56,22 @@ export default class HomeComponents extends Component {
     }
 
   render() {
-    return (
-            <View style={styles.container}>
-                <Banner
+
+    //轮播图
+    const banner = <Banner
                     banners={this.banners}
                     defaultIndex={this.defaultIndex}
                     onMomentumScrollEnd={this.onMomentumScrollEnd.bind(this)}
                     intent={this.clickListener.bind(this)}
-                />
-            </View>
-               );
-  }
+                  />
+    //列表
 
+    return (
+            <View style={styles.container}>
+             {banner}
+            </View>
+            );
+  }
 
 
 }
