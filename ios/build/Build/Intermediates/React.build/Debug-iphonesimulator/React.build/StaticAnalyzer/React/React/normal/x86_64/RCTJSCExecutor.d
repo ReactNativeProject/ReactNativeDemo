@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/air/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Modules/RCTDevMenu.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/air/ReactNativeDemo/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/air/zhubiao/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/air/zhubiao/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/air/zhubiao/ReactNativeDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/air/zhubiao/ReactNativeDemo/node_modules/react-native/React/Base/RCTUtils.h

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "248B198DE80ED5658B9670E2E2C117E2CDA8A1D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "248B198DE80ED5658B9670E2E2C117E2CDA8A1D3" : 9223372036854775807,
+    "18F1F90CEF40CD00F739465162D656BEA5B4548E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "893A7234-25B6-4878-AB70-80A75BC52CA9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "248B198DE80ED5658B9670E2E2C117E2CDA8A1D3" : "ReactNativeDemo\/",
+    "18F1F90CEF40CD00F739465162D656BEA5B4548E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "zzz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/zzz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zb1006801184\/HM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18F1F90CEF40CD00F739465162D656BEA5B4548E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReactNativeProject\/ReactNativeDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "248B198DE80ED5658B9670E2E2C117E2CDA8A1D3"
+    }
+  ]
+}
