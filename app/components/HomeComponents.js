@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import {StyleSheet, Image,View,Text} from "react-native";
- import Request from "../services/Request";
+import Request from "../services/Request";
 
 export default class HomeComponents extends Component {
    constructor(props) {
@@ -8,13 +8,16 @@ export default class HomeComponents extends Component {
     }
   //网络请求
     componentWillMount(){
+      //参数
       let param = {'p':'1'};
-      //  Request.requestPost('Goods/index',param,this.bind.callback(this));
+        //发起请求
+        Request.requestPost('Goods/index',param,this.callback);
     }
 
-  callback(data){
-    if(!data){
-      alert(12);
+  //成功的回调
+  callback(data,isSuccess){
+    if(isSuccess){
+      alert(data["status"]);
     }
   }
 
